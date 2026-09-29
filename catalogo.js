@@ -99,7 +99,7 @@ const Catalogo = {
 // Estilos propios (prefijo cat-)
 // ------------------------------------------------------------------
 const CSS = `
-  @import url('http://localhost:8081/tokens.css');
+  @import url('https://design-tokens-saborupc.onrender.com/tokens.css');
 
   .cat-contenedor { font-family: var(--fuente-base, Arial, sans-serif); }
   .cat-titulo { color: var(--color-primario, #0b4f8a); margin: 0 0 4px; }
