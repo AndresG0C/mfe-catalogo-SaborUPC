@@ -59,7 +59,7 @@ const Catalogo = {
   template: `
     <div class="cat-contenedor">
       <h2 class="cat-titulo">Catálogo de platos</h2>
-      <span class="cat-version">mfe-catalogo v{{ version }} · Vue 3 desde CDN</span>
+      <span class="cat-version">catalogo v{{ version }} · Vue 3 desde CDN</span>
 
       <div class="cat-controles">
         <input
