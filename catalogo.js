@@ -4,7 +4,7 @@
 // Publica:  'carrito:agregar'  { id, nombre, precio }
 import * as Vue from 'https://unpkg.com/vue@3/dist/vue.esm-browser.prod.js';
 
-const VERSION = '2.0.0';
+const VERSION = '2.1.1';
 
 const PLATOS = [
   { id: 1, nombre: 'Chivo guisado',         precio: 28000, categoria: 'Plato fuerte' },
